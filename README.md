@@ -1,16 +1,41 @@
-# README-Generator
-Unit 09 Node.js and ES6+ Homework: Good README Generator
+# Fitness Tracker
 
-https://vimeo.com/439501742
-
-![Example of Generated Readme](Assets/Generated-README-Example.png)
-
-## Task Description
-
-The task for this weeks homework was to create a README generator using JavaScript, node.js and the FS library. The generator had to prompt users for input through the command line and create a polished looking README based on the responses. The README also had to include a table that links to sections of the README.
+## Description
+An app to allow users track their workouts to help reach their fitness goals. Created using node.js, express and mongodb.  
 
 
+![License badge](https://img.shields.io/badge/license-MIT-green)
 
-## License & copyright
 
-© Chris R, University of Adelaide Coding Bootcamp
+## Table of Contents
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [License](#License)
+4. [Contribution](#Contribution)
+5. [Questions](#Questions)
+
+
+## Installation
+
+
+
+## Usage
+
+
+
+## License
+MIT</br> 
+![License badge](https://img.shields.io/badge/license-MIT-green) 
+
+
+## Contribution
+Currently not available for contributions.
+
+
+## Tests
+
+
+
+## Questions
+You can view my GitHub profile here: https://github.com/CR-53</br>
+If you have any questions, feel free to send me an email: chrisroschi53@gmail.com
