@@ -16,11 +16,10 @@ An app to allow users track their workouts to help reach their fitness goals. Cr
 
 
 ## Installation
-
-
+No installation required.
 
 ## Usage
-
+This app is available to use on Heroku via this link - https://fierce-peak-36776.herokuapp.com/
 
 
 ## License
@@ -33,7 +32,7 @@ Currently not available for contributions.
 
 
 ## Tests
-
+- 
 
 
 ## Questions
